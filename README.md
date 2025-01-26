@@ -21,5 +21,5 @@ This project simulates a multi-agent system where multiple agents collaborate in
 - Modify grid size, number of agents/resources, and simulation steps in the notebook.
 
 ## Example Output
-- Total resources collected: `X`
-- Time steps taken: `Y`
+![image](https://github.com/user-attachments/assets/e8a93596-cdb8-4f8b-8f9e-cbad971c2c1b)
+
